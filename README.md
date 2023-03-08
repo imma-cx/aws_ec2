@@ -25,8 +25,8 @@ This script allows you to start or stop EC2 instances in your AWS account, based
 
 Example usage:
 
-'python ec2_control.py my-instance-id --stop'
-'python ec2_control.py my-instance-name,i-3nhi45bd --start'
+'python aws_cli.py my-instance-id --stop'
+'python aws_cli.py my-instance-name,i-3nhi45bd --start'
 
 ## Notes
 
